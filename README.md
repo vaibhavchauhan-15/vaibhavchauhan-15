@@ -1,111 +1,207 @@
-<!-- Profile README for Vaibhav Chauhan -->
+# 👋 Hi, I'm Vaibhav Chauhan
 
-<!-- Animated Typing -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Vaibhav+Chauhan;Full-Stack+Web+Developer+🚀;Data+Analyst+📊;Open+Source+Contributor+🌍" />
-</h1>
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Vaibhav%20Chauhan&fontSize=50&fontAlign=70&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Open%20Source%20Contributor&descAlign=70&descAlignY=60)
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+(MERN)+%F0%9F%9A%80;Data+Analyst+%F0%9F%93%8A;Open+Source+Contributor+%F0%9F%8C%8D;Transforming+Data+into+Insights;Building+Scalable+Web+Solutions)](https://git.io/typing-svg)
 
----
-
-## 👨‍💻 About Me  
-✨ Versatile **Full-Stack Developer (MERN)** and **Data Enthusiast** passionate about building scalable apps and uncovering insights through data.  
-🌍 Always exploring **AI, Data Visualization, and Web Development** to create real-world impact.  
-📌 Portfolio: [www.vaibhavchauhan.tech](https://www.vaibhavchauhan.tech/)  
+</div>
 
 ---
 
-## 🚀 Tech Stack  
+## 🚀 About Me
 
-### 💻 Languages & Programming  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=fff)  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)  
+```typescript
+const vaibhav = {
+    identity: "Full-Stack Developer & Data Enthusiast",
+    passion: "Transforming data chaos into elegant narratives 📈",
+    expertise: ["MERN Stack Development", "Data Analytics", "Business Intelligence"],
+    currentFocus: "Building AI-powered applications and insightful dashboards",
+    portfolio: "www.vaibhavchauhan.tech",
+    motto: "Code with purpose, analyze with precision ✨"
+};
+```
 
-### ⚙️ Frameworks & Tools  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=000)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=fff)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=fff)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)  
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
+</div>
 
 ---
 
-## 📂 Featured Projects  
+## 🛠️ Tech Stack & Skills
 
-🔹 **IndicLaw AI – Multilingual Legal Assistant**  
-> MERN Stack | OpenAI | IndicNLP | Firebase | Tesseract.js  
-- Built AI-powered chatbot in 5+ Indian languages  
-- 30% faster summarization with IndicNLP + OpenAI  
-- [GitHub Link](https://github.com/vaibhavchauhan-15)  
+<div align="center">
 
-🔹 **Real Estate Management System**  
-> MERN Stack | Role-based Login | Secure Auth | Deployment on Vercel  
-- Optimized React state management → 25% faster load time  
-- Real-time chat & responsive design  
-- [Repo](https://github.com/vaibhavchauhan-15/RealEstate-MERN)  
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-🔹 **Student Analytics Dashboard**  
-> Power BI | SQL | ETL Pipelines  
-- Automated ETL → 30% improved performance  
-- Secure grade & KPI visualization  
+### 🚀 Full-Stack Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-🔹 **General Election Dashboard**  
-> Power BI | DAX | Data Cleansing  
-- Built dashboards tracking 2024 Indian elections  
-- Interactive slicers for clarity & engagement  
+### 📊 Data Analytics & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 🏆 Certifications & Achievements  
-
-✔️ DSA in C++ (CodeHelp - Love Babbar)  
-✔️ Power BI Virtual Internship – PwC Forage  
-✔️ Data Analytics & Visualization – Accenture Forage  
-✔️ Hackathon Finalist (AI/ML – Parul University x myOnsite Healthcare)  
-✔️ Innovation Award – Power BI Dashboards  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavchauhan-15&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavchauhan-15&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavchauhan-15&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vaibhavchauhan-15&theme=tokyonight&row=1&column=6" />
-</p>
+</div>
 
 ---
 
-## 🌐 Connect With Me  
+## 🌟 Featured Projects
 
-<p align="center">
-  <a href="mailto:vaibhavchauhan12353@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=fff" /></a>
-  <a href="https://linkedin.com/in/vaibhavchauhan15"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff" /></a>
-  <a href="https://github.com/vaibhavchauhan-15"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff" /></a>
-  <a href="https://www.vaibhavchauhan.tech"><img src="https://img.shields.io/badge/-Portfolio-FF4088?logo=vercel&logoColor=fff" /></a>
-</p>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 IndicLaw AI
+**Multilingual Legal Assistant**
+- **Tech Stack:** MERN, OpenAI, IndicNLP, Firebase
+- **Features:** 5+ Indian languages support, PDF/DOCX summarization
+- **Impact:** 30% improvement in summarization speed
+- **Role:** Team Lead (4 members)
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/vaibhavchauhan-15)
+
+</td>
+<td width="50%">
+
+### 🏠 Real Estate Management System
+**Full-Stack MERN Platform**
+- **Tech Stack:** MongoDB, Express, React, Node.js
+- **Features:** Role-based auth, real-time chat, responsive design
+- **Performance:** 25% load speed improvement
+- **Deployment:** Vercel with 100% mobile responsiveness
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/vaibhavchauhan-15/RealEstate-MERN)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 Student Analytics Dashboard
+**Power BI & SQL Analytics**
+- **Tech Stack:** Power BI, SQL, ETL Pipelines
+- **Features:** Secure data processing, automated workflows
+- **Performance:** 30% ETL pipeline improvement
+- **Focus:** Academic KPIs and reporting
+
+[![Live Demo](https://img.shields.io/badge/Power_BI-View_Dashboard-F2C811?style=flat-square&logo=powerbi)](https://github.com/vaibhavchauhan-15)
+
+</td>
+<td width="50%">
+
+### 🗳️ General Election Dashboard (2024)
+**Data Visualization Platform**
+- **Tech Stack:** Power BI, DAX, Data Cleansing
+- **Features:** Interactive dashboards, voting patterns analysis
+- **Scope:** State-wise metrics and trend analysis
+- **Users:** Technical and non-technical stakeholders
+
+[![Explore](https://img.shields.io/badge/Power_BI-Explore-F2C811?style=flat-square&logo=powerbi)](https://github.com/vaibhavchauhan-15)
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=vaibhavchauhan-15&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+## 📈 GitHub Stats & Activity
 
-<p align="center">💡 Always curious, always learning, always building! 🚀</p>
+<div align="center">
+  
+  ![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaibhavchauhan-15&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavchauhan-15&layout=compact&theme=radical&hide_border=true&langs_count=8)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavchauhan-15&theme=radical&hide_border=true)
+  
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=vaibhavchauhan-15&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+  
+</div>
+
+---
+
+## 🎓 Certifications & Achievements
+
+<div align="center">
+
+### 📜 Certifications
+![DSA](https://img.shields.io/badge/DSA_in_C++-CodeHelp_(Love_Babbar)-FF6B6B?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-PwC_Forage-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-Accenture_Forage-A100FF?style=for-the-badge&logo=accenture&logoColor=white)
+![Python](https://img.shields.io/badge/Python_for_Data_Science-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+
+### 🏆 Achievements
+- 🥈 **AI/ML Hackathon Finalist** - Parul University x myOnsite Healthcare
+- 🏆 **Winner** - Python and C++ Programming Challenges
+- ⭐ **Innovation Award** - Power BI Dashboards
+- 🎯 **Team Leadership** - Led multiple successful projects
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhavchauhan15)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavchauhan-15)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.vaibhavchauhan.tech)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavchauhan12353@gmail.com)
+
+**📱 Phone:** +91-9867732204
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💡 "Always curious, always learning! Transforming ideas into impactful solutions." 💡
+  
+  ![Visitor Count](https://profile-counter.glitch.me/vaibhavchauhan-15/count.svg)
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+  
+</div>
+
+---
+
+<div align="center">
+  <i>⭐ From <a href="https://github.com/vaibhavchauhan-15">vaibhavchauhan-15</a> - Building the future, one line of code at a time! 🚀</i>
+</div>
