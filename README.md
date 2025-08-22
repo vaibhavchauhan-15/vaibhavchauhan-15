@@ -2,11 +2,13 @@
 
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Vaibhav%20Chauhan&fontSize=50&fontAlign=70&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Open%20Source%20Contributor&descAlign=70&descAlignY=60)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00B894,100:0984E3&height=300&section=header&text=Vaibhav%20Chauhan&fontSize=50&fontAlign=70&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Data%20Analyst%20%7C%20Open%20Source%20Contributor&descAlign=70&descAlignY=60&descAlignY=600)
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+(MERN)+%F0%9F%9A%80;Data+Analyst+%F0%9F%93%8A;Open+Source+Contributor+%F0%9F%8C%8D;Transforming+Data+into+Insights;Building+Scalable+Web+Solutions)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B894&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+(MERN)+%F0%9F%9A%80;Data+Analyst+%F0%9F%93%8A;Open+Source+Contributor+%F0%9F%8C%8D;Transforming+Data+into+Insights;Building+Scalable+Web+Solutions)](https://git.io/typing-svg)
 
 </div>
+
+
 
 ---
 
