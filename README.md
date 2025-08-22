@@ -1,82 +1,111 @@
-<h1 align="center">Hi 👋, I'm Vaibhav Chauhan</h1>
+<!-- Profile README for Vaibhav Chauhan -->
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00B8D4&center=true&vCenter=true&width=600&lines=Data+Scientist;Machine+Learning+Engineer;Analytics+Dashboard+Developer;Business+Intelligence+Specialist;AI+and+Data+Enthusiast" alt="Typing SVG" />
-</div>
-
----
-
-## 🛠️ *Technical Skills*  
-
-<h4>Programming Languages</h4>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-</p>
-
-<h4>Data Science & Analysis</h4>
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-</p>
-
-<h4>Data Visualization & BI Tools</h4>
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white" alt="D3.js"/>
-</p>
-
-<h4>Tools & Technologies</h4>
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-</p>
-
-<h4>Analytical Skills</h4>
-<p>
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-5C2D91?style=for-the-badge" alt="Statistical Analysis"/>
-  <img src="https://img.shields.io/badge/Data%20Mining-FF6F00?style=for-the-badge" alt="Data Mining"/>
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-007ACC?style=for-the-badge" alt="Predictive Modeling"/>
-  <img src="https://img.shields.io/badge/ETL%20Processes-00C853?style=for-the-badge" alt="ETL Processes"/>
-  <img src="https://img.shields.io/badge/A/B%20Testing-6200EA?style=for-the-badge" alt="A/B Testing"/>
-</p>
+<!-- Animated Typing -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Vaibhav+Chauhan;Full-Stack+Web+Developer+🚀;Data+Analyst+📊;Open+Source+Contributor+🌍" />
+</h1>
 
 ---
 
-## 📫 Connect With Me  
+## 👨‍💻 About Me  
+✨ Versatile **Full-Stack Developer (MERN)** and **Data Enthusiast** passionate about building scalable apps and uncovering insights through data.  
+🌍 Always exploring **AI, Data Visualization, and Web Development** to create real-world impact.  
+📌 Portfolio: [www.vaibhavchauhan.tech](https://www.vaibhavchauhan.tech/)  
 
-<p align="left">
-  <a href="https://x.com/VaibhavCh_15" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/vaibhavchauhan15/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/vaibhavchauhan_15/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/cozard_15" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/vaibhavchauhan15" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/vaibhavchauhan_15" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/vaibhavchauhan_15/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/vaibhavchauhan_15/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-  </a>
+---
+
+## 🚀 Tech Stack  
+
+### 💻 Languages & Programming  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=fff)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=fff)  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)  
+
+### ⚙️ Frameworks & Tools  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=000)  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=fff)  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=fff)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)  
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff)  
+
+---
+
+## 📂 Featured Projects  
+
+🔹 **IndicLaw AI – Multilingual Legal Assistant**  
+> MERN Stack | OpenAI | IndicNLP | Firebase | Tesseract.js  
+- Built AI-powered chatbot in 5+ Indian languages  
+- 30% faster summarization with IndicNLP + OpenAI  
+- [GitHub Link](https://github.com/vaibhavchauhan-15)  
+
+🔹 **Real Estate Management System**  
+> MERN Stack | Role-based Login | Secure Auth | Deployment on Vercel  
+- Optimized React state management → 25% faster load time  
+- Real-time chat & responsive design  
+- [Repo](https://github.com/vaibhavchauhan-15/RealEstate-MERN)  
+
+🔹 **Student Analytics Dashboard**  
+> Power BI | SQL | ETL Pipelines  
+- Automated ETL → 30% improved performance  
+- Secure grade & KPI visualization  
+
+🔹 **General Election Dashboard**  
+> Power BI | DAX | Data Cleansing  
+- Built dashboards tracking 2024 Indian elections  
+- Interactive slicers for clarity & engagement  
+
+---
+
+## 🏆 Certifications & Achievements  
+
+✔️ DSA in C++ (CodeHelp - Love Babbar)  
+✔️ Power BI Virtual Internship – PwC Forage  
+✔️ Data Analytics & Visualization – Accenture Forage  
+✔️ Hackathon Finalist (AI/ML – Parul University x myOnsite Healthcare)  
+✔️ Innovation Award – Power BI Dashboards  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavchauhan-15&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavchauhan-15&layout=compact&theme=tokyonight" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavchauhan-15&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vaibhavchauhan-15&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="mailto:vaibhavchauhan12353@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=fff" /></a>
+  <a href="https://linkedin.com/in/vaibhavchauhan15"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff" /></a>
+  <a href="https://github.com/vaibhavchauhan-15"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff" /></a>
+  <a href="https://www.vaibhavchauhan.tech"><img src="https://img.shields.io/badge/-Portfolio-FF4088?logo=vercel&logoColor=fff" /></a>
+</p>
+
+---
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=vaibhavchauhan-15&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">💡 Always curious, always learning, always building! 🚀</p>
