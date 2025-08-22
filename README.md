@@ -12,7 +12,12 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
+
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+
+  <!-- Left Section -->
+  <div style="flex: 1;">
 
 ```typescript
 const vaibhav = {
@@ -23,11 +28,7 @@ const vaibhav = {
     portfolio: "www.vaibhavchauhan.tech",
     motto: "Code with purpose, analyze with precision ✨"
 };
-```
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
-</div>
 
 ---
 
