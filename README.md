@@ -231,32 +231,6 @@ console.log(vaibhav.getRandomFact());
 
 ---
 
-## 📈 GitHub Stats & Activity
-
-<div align="center">
-
-<img src="https://activity-graph.herokuapp.com/graph?username=vaibhavchauhan-15&theme=react-dark&hide_border=true&area=true" width="100%">
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vaibhavchauhan-15&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavchauhan-15&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavchauhan-15&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=html,css" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vaibhavchauhan-15&theme=radical" />
-</div>
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=vaibhavchauhan-15&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-### 📊 Detailed Stats
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vaibhavchauhan-15&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## 🎓 Certifications & Achievements
 
 <div align="center">
