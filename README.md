@@ -306,13 +306,7 @@ console.log(vaibhav.getRandomFact());
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vaibhavchauhan15)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vaibhav.chauhan.15)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vaibhavchauhan15)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/vaibhavchauhan15)
-
-### 📱 Contact Information
-**📞 Phone:** [+91-9867732204](tel:+919867732204)  
-**📍 Location:** Vadodara, Gujarat, India 🇮🇳  
-**⏰ Timezone:** IST (GMT+5:30)  
-**💬 Languages:** English, Hindi, Gujarati  
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/vaibhavchauhan15) 
 
 ### 🎯 Open to Opportunities
 - 💼 **Full-Stack Development** roles
